@@ -1,0 +1,342 @@
+
+18-10-2023 15:07:08 [localhost][info] Parent plugin start installation!
+18-10-2023 15:07:08 [localhost][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.5
+18-10-2023 15:07:08 [localhost][info] Parent plugin installation complete!
+-------------------------------
+18-10-2023 15:07:20 [localhost][info] Try to create backup directory. Backup dir: (C:/MAMP/htdocs/wordpresss/wp-content/uploads/wio_backup)
+-------------------------------
+18-10-2023 15:08:02 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:08:02 [localhost][info] Try to create backup directory. Backup dir: (C:/MAMP/htdocs/wordpresss/wp-content/uploads/wio_backup/2020/01)
+18-10-2023 15:08:02 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog11.jpg) to a remote server (server_1).
+18-10-2023 15:08:05 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:06 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog11-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:08:08 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:09 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog11-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:08:10 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:11 [localhost][debug] New queue created #1, attributes values: {"server_id":null,"object_id":"11","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":208246,"final_size":206348,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":177018,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616491}
+18-10-2023 15:08:11 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+18-10-2023 15:08:12 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:08:12 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog12.jpg) to a remote server (server_1).
+18-10-2023 15:08:17 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:21 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog12-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:08:21 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:22 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog12-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:08:22 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:23 [localhost][debug] New queue created #2, attributes values: {"server_id":null,"object_id":"12","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":151448,"final_size":148646,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":132875,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616503}
+18-10-2023 15:08:23 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+18-10-2023 15:08:24 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:08:24 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog13.jpg) to a remote server (server_1).
+18-10-2023 15:08:28 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:35 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog13-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:08:35 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:38 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog13-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:08:39 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:39 [localhost][debug] New queue created #3, attributes values: {"server_id":null,"object_id":"13","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":124465,"final_size":123586,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":106790,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616519}
+18-10-2023 15:08:39 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+18-10-2023 15:08:40 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:08:40 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog1.jpg) to a remote server (server_1).
+18-10-2023 15:08:45 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:46 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog1-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:08:47 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:48 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog1-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:08:48 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:49 [localhost][debug] New queue created #4, attributes values: {"server_id":null,"object_id":"14","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":194545,"final_size":193135,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":166429,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616529}
+18-10-2023 15:08:49 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+18-10-2023 15:08:50 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:08:50 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog2.jpg) to a remote server (server_1).
+18-10-2023 15:08:53 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:55 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog2-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:08:56 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:56 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog2-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:08:57 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:08:59 [localhost][debug] New queue created #5, attributes values: {"server_id":null,"object_id":"15","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":145142,"final_size":144211,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":125847,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616539}
+18-10-2023 15:08:59 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+18-10-2023 15:08:59 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:08:59 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog3.jpg) to a remote server (server_1).
+18-10-2023 15:09:02 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:06 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog3-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:09:06 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:06 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog3-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:09:07 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:08 [localhost][debug] New queue created #6, attributes values: {"server_id":null,"object_id":"16","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":150952,"final_size":149949,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":127445,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616548}
+18-10-2023 15:09:08 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+18-10-2023 15:09:09 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:09:09 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog4.jpg) to a remote server (server_1).
+18-10-2023 15:09:10 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:15 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog4-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:09:16 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:17 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog4-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:09:17 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:25 [localhost][debug] New queue created #7, attributes values: {"server_id":null,"object_id":"17","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":172151,"final_size":170987,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":148539,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616565}
+18-10-2023 15:09:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+18-10-2023 15:09:26 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:09:26 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog5.jpg) to a remote server (server_1).
+18-10-2023 15:09:28 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:31 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog5-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:09:31 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:32 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog5-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:09:32 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:33 [localhost][debug] New queue created #8, attributes values: {"server_id":null,"object_id":"18","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":113109,"final_size":112340,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":95313,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616573}
+18-10-2023 15:09:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+18-10-2023 15:09:34 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:09:34 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog6.jpg) to a remote server (server_1).
+18-10-2023 15:09:35 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:40 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog6-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:09:40 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:40 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog6-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:09:41 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:42 [localhost][debug] New queue created #9, attributes values: {"server_id":null,"object_id":"19","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":75135,"final_size":74406,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":59288,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616582}
+18-10-2023 15:09:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+18-10-2023 15:09:42 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:09:42 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog7.jpg) to a remote server (server_1).
+18-10-2023 15:09:44 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:45 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog7-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:09:46 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:47 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog7-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:09:47 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:48 [localhost][debug] New queue created #10, attributes values: {"server_id":null,"object_id":"20","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":231270,"final_size":229262,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":198175,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616588}
+18-10-2023 15:09:48 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+18-10-2023 15:09:49 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:09:49 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/cropped-blog1.jpg) to a remote server (server_1).
+18-10-2023 15:09:50 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:53 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/cropped-blog1-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:09:54 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:54 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/cropped-blog1-300x180.jpg) to a remote server (server_1).
+18-10-2023 15:09:55 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:09:56 [localhost][debug] New queue created #11, attributes values: {"server_id":null,"object_id":"88","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":231964,"final_size":223283,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":204993,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616596}
+18-10-2023 15:09:56 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+18-10-2023 15:09:57 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:09:57 [localhost][info] Try to create backup directory. Backup dir: (C:/MAMP/htdocs/wordpresss/wp-content/uploads/wio_backup/2020/03)
+18-10-2023 15:09:57 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/tech-scaled-1.jpg) to a remote server (server_1).
+18-10-2023 15:09:58 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:03 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/tech-scaled-1-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:10:03 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:04 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/tech-scaled-1-300x200.jpg) to a remote server (server_1).
+18-10-2023 15:10:04 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:05 [localhost][debug] New queue created #12, attributes values: {"server_id":null,"object_id":"95","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":303667,"final_size":148406,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":286866,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616605}
+18-10-2023 15:10:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+18-10-2023 15:10:05 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:10:06 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/sports.jpg) to a remote server (server_1).
+18-10-2023 15:10:08 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:09 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/sports-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:10:10 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:11 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/sports-300x138.jpg) to a remote server (server_1).
+18-10-2023 15:10:12 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:12 [localhost][debug] New queue created #13, attributes values: {"server_id":null,"object_id":"102","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":117455,"final_size":111817,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":97229,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616612}
+18-10-2023 15:10:12 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+18-10-2023 15:10:13 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:10:13 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog9.jpg) to a remote server (server_1).
+18-10-2023 15:10:15 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:16 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog9-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:10:16 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:17 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog9-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:10:17 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:18 [localhost][debug] New queue created #14, attributes values: {"server_id":null,"object_id":"129","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":163469,"final_size":162463,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":139791,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616618}
+18-10-2023 15:10:18 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+18-10-2023 15:10:19 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:10:19 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog1.jpg) to a remote server (server_1).
+18-10-2023 15:10:20 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:22 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog1-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:10:23 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:27 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog1-300x200.jpg) to a remote server (server_1).
+18-10-2023 15:10:27 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:28 [localhost][debug] New queue created #15, attributes values: {"server_id":null,"object_id":"130","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":138389,"final_size":135672,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":119943,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616628}
+18-10-2023 15:10:28 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+18-10-2023 15:10:29 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:10:29 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog2.jpg) to a remote server (server_1).
+18-10-2023 15:10:31 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:33 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog2-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:10:34 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:34 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog2-300x200.jpg) to a remote server (server_1).
+18-10-2023 15:10:35 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:35 [localhost][debug] New queue created #16, attributes values: {"server_id":null,"object_id":"140","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":89709,"final_size":89065,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":74823,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616635}
+18-10-2023 15:10:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+18-10-2023 15:10:36 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:10:36 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog3.jpg) to a remote server (server_1).
+18-10-2023 15:10:38 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:45 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog3-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:10:45 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:48 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog3-300x200.jpg) to a remote server (server_1).
+18-10-2023 15:10:49 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:50 [localhost][debug] New queue created #17, attributes values: {"server_id":null,"object_id":"141","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":82159,"final_size":81323,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":65757,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616650}
+18-10-2023 15:10:50 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+18-10-2023 15:10:51 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:10:51 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog4.jpg) to a remote server (server_1).
+18-10-2023 15:10:52 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:53 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog4-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:10:53 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:54 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/03/blog4-300x200.jpg) to a remote server (server_1).
+18-10-2023 15:10:55 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:10:59 [localhost][debug] New queue created #18, attributes values: {"server_id":null,"object_id":"142","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":111781,"final_size":110642,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":89438,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616659}
+18-10-2023 15:10:59 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+18-10-2023 15:11:00 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:00 [localhost][info] Try to create backup directory. Backup dir: (C:/MAMP/htdocs/wordpresss/wp-content/uploads/wio_backup/2021/06)
+18-10-2023 15:11:00 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog1.jpg) to a remote server (server_1).
+18-10-2023 15:11:02 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:04 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog1-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:11:04 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:05 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog1-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:11:06 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:06 [localhost][debug] New queue created #19, attributes values: {"server_id":null,"object_id":"146","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":151675,"final_size":150586,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":128404,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616666}
+18-10-2023 15:11:06 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+18-10-2023 15:11:07 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:07 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog8.jpg) to a remote server (server_1).
+18-10-2023 15:11:11 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:12 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog8-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:11:13 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:13 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2020/01/blog8-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:11:14 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:15 [localhost][debug] New queue created #20, attributes values: {"server_id":null,"object_id":"147","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":106944,"final_size":106047,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":89377,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616675}
+18-10-2023 15:11:15 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+18-10-2023 15:11:15 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:15 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog2.jpg) to a remote server (server_1).
+18-10-2023 15:11:17 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:19 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog2-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:11:19 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:20 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog2-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:11:21 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:25 [localhost][debug] New queue created #21, attributes values: {"server_id":null,"object_id":"148","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":182118,"final_size":180372,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":152500,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616685}
+18-10-2023 15:11:25 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+18-10-2023 15:11:26 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:26 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog4.jpg) to a remote server (server_1).
+18-10-2023 15:11:28 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:29 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog4-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:11:29 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:30 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog4-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:11:30 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:35 [localhost][debug] New queue created #22, attributes values: {"server_id":null,"object_id":"149","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":139667,"final_size":137949,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":110894,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616695}
+18-10-2023 15:11:35 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+18-10-2023 15:11:35 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:35 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog5.jpg) to a remote server (server_1).
+18-10-2023 15:11:36 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:38 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog5-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:11:38 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:39 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2021/06/blog5-300x199.jpg) to a remote server (server_1).
+18-10-2023 15:11:39 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:42 [localhost][debug] New queue created #23, attributes values: {"server_id":null,"object_id":"150","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":107470,"final_size":106579,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":86959,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616702}
+18-10-2023 15:11:42 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+18-10-2023 15:11:43 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:43 [localhost][info] Try to create backup directory. Backup dir: (C:/MAMP/htdocs/wordpresss/wp-content/uploads/wio_backup/2023/10)
+18-10-2023 15:11:43 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/nalogo.png) to a remote server (server_1).
+18-10-2023 15:11:43 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:44 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/nalogo-150x50.png) to a remote server (server_1).
+18-10-2023 15:11:44 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:45 [localhost][debug] New queue created #24, attributes values: {"server_id":null,"object_id":"250","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":4466,"final_size":2822,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":2550,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616705}
+18-10-2023 15:11:45 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+18-10-2023 15:11:45 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:45 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/269666697_3049387148607494_3829439804963116446_n.jpg) to a remote server (server_1).
+18-10-2023 15:11:46 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:48 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/269666697_3049387148607494_3829439804963116446_n-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:11:49 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:49 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/269666697_3049387148607494_3829439804963116446_n-300x275.jpg) to a remote server (server_1).
+18-10-2023 15:11:51 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:11:52 [localhost][debug] New queue created #25, attributes values: {"server_id":null,"object_id":"256","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":84223,"final_size":78476,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":65750,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616712}
+18-10-2023 15:11:52 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+18-10-2023 15:11:53 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:11:53 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/background-thoi-su-tin-chinh_095012649.jpg) to a remote server (server_1).
+18-10-2023 15:11:55 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:02 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/background-thoi-su-tin-chinh_095012649-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:12:03 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:04 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/background-thoi-su-tin-chinh_095012649-300x169.jpg) to a remote server (server_1).
+18-10-2023 15:12:04 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:05 [localhost][debug] New queue created #26, attributes values: {"server_id":null,"object_id":"270","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":282850,"final_size":171581,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":268325,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616725}
+18-10-2023 15:12:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+18-10-2023 15:12:05 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:12:05 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/cropped-background-thoi-su-tin-chinh_095012649.jpg) to a remote server (server_1).
+18-10-2023 15:12:10 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:14 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/cropped-background-thoi-su-tin-chinh_095012649-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:12:15 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:16 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/cropped-background-thoi-su-tin-chinh_095012649-300x180.jpg) to a remote server (server_1).
+18-10-2023 15:12:16 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:17 [localhost][debug] New queue created #27, attributes values: {"server_id":null,"object_id":"272","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":247564,"final_size":182505,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":232131,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616737}
+18-10-2023 15:12:17 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+18-10-2023 15:12:17 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:12:18 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/x_1.jpeg) to a remote server (server_1).
+18-10-2023 15:12:19 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:24 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/x_1-150x150.jpeg) to a remote server (server_1).
+18-10-2023 15:12:24 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:25 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/x_1-300x169.jpeg) to a remote server (server_1).
+18-10-2023 15:12:25 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:26 [localhost][debug] New queue created #28, attributes values: {"server_id":null,"object_id":"277","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":270315,"final_size":111371,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":255826,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616746}
+18-10-2023 15:12:26 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+18-10-2023 15:12:27 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:12:27 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/windows11-845x475-1.jpg) to a remote server (server_1).
+18-10-2023 15:12:28 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:30 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/windows11-845x475-1-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:12:30 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:31 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/windows11-845x475-1-300x169.jpg) to a remote server (server_1).
+18-10-2023 15:12:31 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:33 [localhost][debug] New queue created #29, attributes values: {"server_id":null,"object_id":"286","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":85888,"final_size":83141,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":67122,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616753}
+18-10-2023 15:12:33 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+18-10-2023 15:12:33 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:12:34 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/BietDoiDanhThue4_1.jpg) to a remote server (server_1).
+18-10-2023 15:12:36 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:40 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/BietDoiDanhThue4_1-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:12:41 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:41 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/BietDoiDanhThue4_1-300x169.jpg) to a remote server (server_1).
+18-10-2023 15:12:43 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:12:44 [localhost][debug] New queue created #30, attributes values: {"server_id":null,"object_id":"289","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":274547,"final_size":211615,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":251905,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616764}
+18-10-2023 15:12:44 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+18-10-2023 15:12:44 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:12:44 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/ca-si-mat-na-1692402071132260889328.jpg) to a remote server (server_1).
+18-10-2023 15:12:53 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:03 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/ca-si-mat-na-1692402071132260889328-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:13:03 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:04 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/ca-si-mat-na-1692402071132260889328-300x176.jpg) to a remote server (server_1).
+18-10-2023 15:13:04 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:05 [localhost][debug] New queue created #31, attributes values: {"server_id":null,"object_id":"292","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":315529,"final_size":217064,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":293816,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616785}
+18-10-2023 15:13:05 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+18-10-2023 15:13:05 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:13:06 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/Icarus-Win64-Shipping_2021_12_06_03_02_26_671-scaled.jpg) to a remote server (server_1).
+18-10-2023 15:13:09 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:39 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/Icarus-Win64-Shipping_2021_12_06_03_02_26_671-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:13:40 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:40 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/Icarus-Win64-Shipping_2021_12_06_03_02_26_671-300x169.jpg) to a remote server (server_1).
+18-10-2023 15:13:41 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:41 [localhost][debug] New queue created #32, attributes values: {"server_id":null,"object_id":"295","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":790699,"final_size":310598,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":770016,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616821}
+18-10-2023 15:13:41 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+18-10-2023 15:13:42 [localhost][info] Start bulk optimization process! Scope: media-library
+18-10-2023 15:13:42 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/valorant-vs-lol.jpg) to a remote server (server_1).
+18-10-2023 15:13:44 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:46 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/valorant-vs-lol-150x150.jpg) to a remote server (server_1).
+18-10-2023 15:13:49 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:50 [localhost][info] Preparing to upload a file (C:/MAMP/htdocs/wordpresss/wp-content/uploads/2023/10/valorant-vs-lol-300x158.jpg) to a remote server (server_1).
+18-10-2023 15:13:51 [localhost][info] File successfully uploaded to remote server (server_1).
+18-10-2023 15:13:51 [localhost][debug] New queue created #33, attributes values: {"server_id":null,"object_id":"298","object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"normal","is_backed_up":true,"original_size":136209,"final_size":134860,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":111878,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697616831}
+18-10-2023 15:13:51 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------

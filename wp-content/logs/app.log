@@ -1,0 +1,13 @@
+
+29-11-2023 13:53:20 [localhost][info] Start bulk optimization process! Scope: media-library
+29-11-2023 13:53:20 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+29-11-2023 13:54:59 [localhost][info] Start cron job. Scope: media-library
+29-11-2023 13:54:59 [localhost][info] End cron job. Scope: media-library
+-------------------------------
+29-11-2023 13:55:01 [localhost][info] Start bulk optimization process! Scope: media-library
+29-11-2023 13:55:01 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+29-11-2023 13:59:40 [localhost][info] Start bulk optimization process! Scope: media-library
+29-11-2023 13:59:40 [localhost][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
